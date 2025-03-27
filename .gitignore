@@ -1,1 +1,10 @@
 /dataset
+/CNN/data
+/CNN/cnn_lenet_trained.pth
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
